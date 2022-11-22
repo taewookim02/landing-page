@@ -173,7 +173,7 @@ body {
 
 .cta-container {
   background-color: #3882f6;
-  color: #e5e7eb;
+  color: #f9faf8;
   display: flex;
   padding: 32px 96px;
   align-items: center;
@@ -188,7 +188,7 @@ body {
   font-size: 12px;
 }
 .cta__button--link {
-  border: 1px solid #e5e7eb;
+  border: 1px solid #f9faf8;
 }
 
 .footer {
